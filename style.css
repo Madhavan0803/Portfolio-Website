@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+.topic{
+    padding: 50px;
+}
+.sec-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.sec-one__Contect{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px; 
+}
+
+.sec-one__roll{
+    font-size: 20px;
+}
+
+.sec-one__name{
+    font-size: 50px;
+}
+
+.sec-tw0,.sec-three,.sec-four,.sec-five{
+    margin-top: 20px;
+}
+
+.sec-two__para,.sec-three__para,.sec-four__para,.sec-five__para{
+    margin-top: 10px;
+}
+
+.sec-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.sec-five__tittle a{
+  color: skyblue;
+}
+
+.sec-three__para li,.sec-four__para li{
+    list-style: none;
+}
+
+.sec-three{
+    background-color: #6462fd;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius :10px;
+    height: 200px;
+    vertical-align: top;
+}
+.sec-four{
+    background-color: orange;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px ;
+    height: 200px;
+    vertical-align: top;
+}
+
+.topic-one{
+    padding: 50px;
+}
+
+.con-one__head{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.con-one__home{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px; 
+}
+
+.con-one__name{
+    font-size: 50px;
+}
+
+.con-one__web{
+    font-size: 20px;
+}
+
+.con-two_form1,.con-two_form2,.con-two_form3{
+    margin-top: 20px;
+}
+
+.con-three,.con-four{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.con-three__para,.con-four__para{
+    color: skyblue;
+}
